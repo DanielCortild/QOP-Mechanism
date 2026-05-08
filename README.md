@@ -19,7 +19,7 @@ The repository contains two main notebooks:
 
 ## References
 
-<a id="1">[1]</a> Cortild, D., & Cartis, C. (2026). Quadratic Objective Perturbation: Curvature-Based Differential Privacy. arXiv preprint arXiv:2605.XXXXX.
+<a id="1">[1]</a> Cortild, D., & Cartis, C. (2026). Quadratic Objective Perturbation: Curvature-Based Differential Privacy. arXiv preprint arXiv:2605.05905.
 
 <a id="2">[2]</a> Chaudhuri, K., Monteleoni, C., & Sarwate, A. D. (2011). Differentially Private Empirical Risk Minimization. Journal of Machine Learning Research, 12, 1069–1109.
 
